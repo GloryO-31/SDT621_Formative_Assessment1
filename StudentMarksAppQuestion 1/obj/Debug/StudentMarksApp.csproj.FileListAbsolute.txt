@@ -1,0 +1,7 @@
+C:\C# Exercises\StudentMarksApp\bin\Debug\StudentMarksApp.exe.config
+C:\C# Exercises\StudentMarksApp\bin\Debug\StudentMarksApp.exe
+C:\C# Exercises\StudentMarksApp\bin\Debug\StudentMarksApp.pdb
+C:\C# Exercises\StudentMarksApp\obj\Debug\StudentMarksApp.csproj.AssemblyReference.cache
+C:\C# Exercises\StudentMarksApp\obj\Debug\StudentMarksApp.csproj.CoreCompileInputs.cache
+C:\C# Exercises\StudentMarksApp\obj\Debug\StudentMarksApp.exe
+C:\C# Exercises\StudentMarksApp\obj\Debug\StudentMarksApp.pdb
